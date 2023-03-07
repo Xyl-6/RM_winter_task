@@ -1,0 +1,3 @@
+/home/xyl/Desktop/opencv_tasks/build/CMakeFiles/DisplayImage.dir
+/home/xyl/Desktop/opencv_tasks/build/CMakeFiles/edit_cache.dir
+/home/xyl/Desktop/opencv_tasks/build/CMakeFiles/rebuild_cache.dir
